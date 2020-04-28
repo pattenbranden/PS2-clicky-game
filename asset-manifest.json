@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PS2-clicky-game-react/static/css/main.b4802167.chunk.css",
+    "main.js": "/PS2-clicky-game-react/static/js/main.e56569a4.chunk.js",
+    "main.js.map": "/PS2-clicky-game-react/static/js/main.e56569a4.chunk.js.map",
+    "runtime-main.js": "/PS2-clicky-game-react/static/js/runtime-main.96110990.js",
+    "runtime-main.js.map": "/PS2-clicky-game-react/static/js/runtime-main.96110990.js.map",
+    "static/js/2.cd356f4f.chunk.js": "/PS2-clicky-game-react/static/js/2.cd356f4f.chunk.js",
+    "static/js/2.cd356f4f.chunk.js.map": "/PS2-clicky-game-react/static/js/2.cd356f4f.chunk.js.map",
+    "index.html": "/PS2-clicky-game-react/index.html",
+    "precache-manifest.a7f72a7a018dc6931cf821dfbc8b9256.js": "/PS2-clicky-game-react/precache-manifest.a7f72a7a018dc6931cf821dfbc8b9256.js",
+    "service-worker.js": "/PS2-clicky-game-react/service-worker.js",
+    "static/css/main.b4802167.chunk.css.map": "/PS2-clicky-game-react/static/css/main.b4802167.chunk.css.map",
+    "static/js/2.cd356f4f.chunk.js.LICENSE.txt": "/PS2-clicky-game-react/static/js/2.cd356f4f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/PS2-clicky-game-react/static/media/ps2-bg.19d7643a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96110990.js",
+    "static/js/2.cd356f4f.chunk.js",
+    "static/css/main.b4802167.chunk.css",
+    "static/js/main.e56569a4.chunk.js"
+  ]
+}
